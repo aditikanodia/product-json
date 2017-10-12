@@ -1,0 +1,18 @@
+{
+	"links": [{
+		"id": "firstlink",
+		"description": "Purchase Product",
+		"status": "Y",
+		"url": "Product one"
+	}, {
+		"id": "secondlink",
+		"description": "Purchase Product",
+		"status": "N",
+		"url": "product two"
+	}, {
+		"id": "thirdlink",
+		"description": "Purchase Product",
+		"status": "N",
+		"url": "Product url"
+	}]
+}
